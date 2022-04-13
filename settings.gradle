@@ -1,0 +1,2 @@
+rootProject.name = "GilangPertemuan7"
+include ':app'
